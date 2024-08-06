@@ -13,11 +13,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "a- causar impactos negativos na natureza",
-                afirmacao: "AFIRMATIVA DA RESPOSTA 1r. "
+                afirmacao: "Há não, ouve alteração do clima negativamente. "
             },
             {
                 texto: "b- preservar os recursos narurais para futuras gerações",
-                afirmacao: "AFIRMATIVA RESPOSTA 2."
+                afirmacao: "Isso mesmo! Preservar a natureza melhora a qualidade de vida. "
             }
         ]
     },
@@ -26,11 +26,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "RESPOSTA a- reciclar materiais e reduzir o consumo de plásticos",
-                afirmacao: "AFIRMATIVA RESPOSTA 1"
+                afirmacao: "Parabens! Recursos naturais bem geridos podem sustentar economias locais e globais a longo prazo."
             },
             {
                 texto: "b- descartar lixo em locais inadquados",
-                afirmacao: "AFIRMATIVA RESPOSTA 2"
+                afirmacao: "Essa não, ouve perda e biodiversidade e desequilíbrio nos ecosistemas."
             }
         ]
     },
@@ -39,11 +39,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "a- ignorar os problemas ambientais ",
-                afirmacao: "AFIRMATIVA RESPOSTA 1"
+                afirmacao: "Ocorreu contaminção de ar, água e solo, afetando a saúde de seres vivos."
             },
             {
                 texto: "b- plantar árvores e participar de ações de limpeza ",
-                afirmacao: "AFIRMATIVA RESPOSTA 2."
+                afirmacao: "Isso mesmo, A conservação de florestas e outros ecossistemas ajudam a regular o clima."
             }
         ]
     },

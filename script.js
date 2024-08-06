@@ -8,7 +8,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: " qual a importancia da prevenção ambiental?
+        enunciado: "1- qual a importancia da prevenção ambiental?
     ",
         alternativas: [
             {
@@ -22,7 +22,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "quai são algumas práticas de prevenção ambiental?",
+        enunciado: "2-quai são algumas práticas de prevenção ambiental?",
         alternativas: [
             {
                 texto: "RESPOSTA a- reciclar materiais e reduzir o consumo de plásticos",
@@ -35,7 +35,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "o que podemos fazer para contribuir com a prevenção ambiental?",
+        enunciado:  "3-o que podemos fazer para contribuir com a prevenção ambiental?",
         alternativas: [
             {
                 texto: "a- ignorar os problemas ambientais ",

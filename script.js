@@ -8,8 +8,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual a importancia da prevenção ambiental?
-    ",
+        enunciado: "Qual a importancia da prevenção ambiental?",
         alternativas: [
             {
                 texto: "Causar impactos negativos na natureza",
@@ -48,12 +47,6 @@ const perguntas = [
         ]
     },
       ];
-script.js 
-
-
-
-
-
 
 
 let atual=0;
